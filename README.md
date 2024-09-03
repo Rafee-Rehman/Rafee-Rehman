@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafee-Rehman
-- 👀 I’m interested in keep learning
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on Android projects focusing on Developmetal Needs of Children
 - 📫 How to reach me RafeeR2811@gmail.com
